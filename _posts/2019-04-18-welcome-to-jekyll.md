@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "What Is Safenet?"
-date:   2024-12-04 02:39:16 +0000
-categories: jekyll update
-permalink: /:title/
+title: "Welcome to Jekyll!"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
 ---
 ![safenet](https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png)
 Safe launched a new product [Safenet](https://safe.global/safenet) this week. 
