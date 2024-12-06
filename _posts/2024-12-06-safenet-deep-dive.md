@@ -5,7 +5,7 @@ categories:
   - crypto
 tags:
   - intents
-image: https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png
+image: "https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png"
 ---
 ![safenet](https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png)
 Safe launched a new product [Safenet](https://safe.global/safenet) this week. 
