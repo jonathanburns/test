@@ -3,8 +3,6 @@ title: "Safenet Deep Dive"
 date: 2024-12-05T15:34:30-04:00
 categories:
   - crypto
-header:
-  image: "https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png"
 tags:
   - intents
 ---
