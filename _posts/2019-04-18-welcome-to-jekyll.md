@@ -1,11 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Safenet Deep Dive"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - intents
 ---
 ![safenet](https://docs.safe.global/_next/static/media/safenet-introduction.cf3046fd.png)
 Safe launched a new product [Safenet](https://safe.global/safenet) this week. 
